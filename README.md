@@ -3,5 +3,5 @@
 ## Usage
 After adding your info in `config.sh`
 ```bash
-./test-hibinit-swap.sh --release jammy | tee jammy_log.txt
+./test-hibinit.sh --release jammy | tee jammy_log.txt
 ```
